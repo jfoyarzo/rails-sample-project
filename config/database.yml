@@ -82,6 +82,4 @@ test:
 production:
   <<: *default
   database: rails_sample_project_production
-  username: rails_sample_project
-  password: <%= ENV["RAILS_SAMPLE_PROJECT_DATABASE_PASSWORD"] %>
   url: <%= ENV['DATABASE_URL'] %>
