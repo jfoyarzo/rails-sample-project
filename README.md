@@ -2,9 +2,9 @@
 
 <br />
 <div align="center">
-  <a href="#">
-    <img src="public/rails.png" alt="Logo" >
-  </a>
+  <img src="public/rails.png" alt="Logo" width="340">
+  <br/>
+  <br/>
 
   <h3 align="center">Ruby on Rails Sample Project</h3>
 
@@ -82,7 +82,7 @@ Following the steps to setup your project:
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/noergitkat/rails-sample.project.git
+   git clone https://github.com/noergitkat/rails-sample-project.git
    ```
 
 2. Navigate to the project
